@@ -1,4 +1,4 @@
-* *Intern Openings* *
+***Intern Openings***
 
 **1. Data scientist Intern - AWS**<br />
 [AWS][1]<br />
