@@ -1,31 +1,31 @@
 ***Intern Openings***
 
 **1. Data scientist Intern - AWS**<br />
-[AWS][1]<br />
+Link:- [AWS][1]<br />
 
 **2. Graduate Technical Intern - Intel**<br />
-[Intel][2]<br />
+Link:- [Intel][2]<br />
 
 **3. Data Science Intern - Nference** <br />
-[Nference][3]<br />
+Link:- [Nference][3]<br />
 
 **4. Data Science Intern - Enterpret**<br />
-[Enterpret][4]<br />
+Link:- [Enterpret][4]<br />
 
 **5. Tech Intern - Nasdaq**<br />
-[Nasdaq][5]<br />
+Link:- [Nasdaq][5]<br />
 
 **6. ML Intern - Freecharge**<br />
-[Freecharge][6]<br />
+Link:- [Freecharge][6]<br />
 
 **7. SDE Intern - Jaguar Land Rover** <br />
 [Jaguar Land Rover][7]<br />
 
 **8. Data Analyst Intern - Navi** <br />
-[Navi][8]<br />
+Link:- [Navi][8]<br />
 
 **9. C++ Programming Intern - Sony**<br />
-[Sony][9]<br />
+Link:- [Sony][9]<br />
 
 Thank You...!!!!
 
