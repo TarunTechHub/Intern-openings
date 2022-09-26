@@ -19,7 +19,7 @@ Link:- [Nasdaq][5]<br />
 Link:- [Freecharge][6]<br />
 
 **7. SDE Intern - Jaguar Land Rover** <br />
-[Jaguar Land Rover][7]<br />
+Link:- [Jaguar Land Rover][7]<br />
 
 **8. Data Analyst Intern - Navi** <br />
 Link:- [Navi][8]<br />
