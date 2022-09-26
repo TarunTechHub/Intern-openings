@@ -1,7 +1,7 @@
 #Intern Openings
 
 **1. Data scientist Intern - AWS**
-[1]:https://www.amazon.jobs/en/jobs/2213292/data-scientist-intern?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
+[1]: https://www.amazon.jobs/en/jobs/2213292/data-scientist-intern?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
 
 **2. Graduate Technical Intern - Intel**
 https://jobs.intel.com/job/-/-/599/34063307696
